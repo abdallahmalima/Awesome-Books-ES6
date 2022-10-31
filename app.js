@@ -1,5 +1,5 @@
 // import all module used in the project
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import { DateTime } from './modules/luxon.js';
 import updateDateTime from './modules/dateUtil.js';
 import BookModel from './modules/bookModel.js';
 import BookView from './modules/bookView.js';
